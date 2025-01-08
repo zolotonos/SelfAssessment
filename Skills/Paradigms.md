@@ -1,6 +1,6 @@
 ## Multi-paradigm programming
 
-- Theory
+- Theory h
   - Procedural programming
   - Imperative programming
   - Structured programming
@@ -26,7 +26,7 @@
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
-- OOP basics
+- OOP basics h
   - Constructor
   - Operator `new`
   - Static method
@@ -48,7 +48,7 @@
   - Introspection
   - Reflection
   - The diamond problem
-- GRASP
+- GRASP h
   - Information expert
   - Creator
   - Controller
@@ -57,13 +57,13 @@
   - High cohesion
   - Protected variations
   - Pure fabrication
-- SOLID
+- SOLID h
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
-- Patterns
+- Patterns h
   - Singleton
   - Factory Method
   - Abstract Factory
