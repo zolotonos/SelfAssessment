@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `Object` u
+  - `Function` u
+  - `Boolean` h
+  - `Number` u
+  - `BigInt` h
+  - `String` u
+  - `Symbol` h
+  - `Infinity` h
+  - `NaN` h
+  - `undefined` u
+  - `null` h
+  - `this` h
+  - `instanceof` h
+  - `...spread` h
+  - `...rest` u
+  - `typeof` h
+  - Destructuring h
+  - Generators h
+  - Iterators h
+  - Async generator h
+  - Async iterator h
+  - Chaining h
+  - Optional chaining h
+  - IIFE h
+  - Async IIFE h
+  - `global` h
+  - `globalThis` h
+  - `window` h
+  - Getters and setters h
+  - `__proto__` h
+  - `prototype` h
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment h
+  - Bitwise operators h
+  - Ternary operator h
+  - `void` h
+  - `yield` h
+  - `await` h
+  - Template literal u
+  - Strict mode u
+  - Hoisting u
+  - `delete` u
+  - `in` u
+  - `super` h
+  - `eval` h
+  - `static` h
+  - `Number.parseInt` h
+  - `Number.parseFloat` h
+  - Property descriptors h
+  - Sealing properties h
+  - Freezing properties h
+  - Computed properties h
+  - Instance class fields h
+  - Static class fields h
+  - Private class fields h
+  - Private class methods h
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if` u
+  - `while` h
+  - `do..while` h
+  - `for` u
+  - `for..in` h
+  - `for..of` u
+  - `for await` h
+  - `throw` h
+  - `break` h
+  - `continue` h
+  - `import` h
+  - `export` u
+  - `label` h
+  - `try..catch` h
+  - `switch` h
+  - `class` h
+  - `extends` h
+  - `with` h
+  - `new` h
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function u
+  - Async function h
+  - Function declaration u
+  - Function expression u
+  - Default parameters h
+  - Functional object h
+  - `Function.prototype.call` h
+  - `Function.prototype.bind` h
+  - `Function.prototype.apply` h
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Array` u
+  - `Map` h
+  - `Set` u
+  - `WeakMap` h
+  - `WeakSet` h
+  - Typed arrays h
+  - Mixins h
+  - `Object.assign` h
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Proxy` h
+  - `RegExp` h
+  - `Date` h
+  - `Math` h
+  - `Reflect` h
+  - `Error` h
+  - `Atomics` h
+  - `JSON` h
+  - `WeakRef` h
+  - `FinalizationRegistry` h
+  - `Intl` h
+  - `Promise` h
+  - `console` u
+  - Timers h
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
-  - TC39
+  - V8 h
+  - Node.js u
+  - npm h
+  - prettier u
+  - MDN u
+  - TC39 h
