@@ -1,89 +1,89 @@
 ## Asynchronous programming
 
-- Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
-- Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
-- Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
-- Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
-- JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
-- Techniques
-  - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing constructor
+- Theory k
+  - Event loop k
+  - `try..catch` k
+  - Non-blocking k
+  - Async I/O k
+  - Thread pool k
+  - Pattern Reactor k
+  - CAS operations k
+  - epoll k
+  - kqueue k
+  - Completion ports h
+  - Event ports k
+  - libuv h
+  - Race conditions h
+  - Dead locks h
+  - Live locks h
+  - Concurrent programming k
+  - Parallel programming k
+  - Actor Model k
+  - Thread k
+  - Process k
+- Async contracts k
+  - Callbacks k
+  - Callback-last-error-first k
+  - Thenable k
+  - Promise k
+  - Async/await k
+  - Future k
+  - Deferred k
+  - Sync generator h 
+  - Async Generator h
+  - Async Iterator h
+  - Event h
+  - Coroutine h
+  - Goroutine h
+  - Signal h
+  - Stream h
+  - Chain of responsibility h
+  - Middleware h
+  - Locks h
+- Async adapters and utils h
+  - callbackify h
+  - promisify h
+  - asyncify h
+  - Callbacks compose h
+  - Async compose h
+- Async abstractions interfaces h
+  - EventEmitter h
+  - Observable/Observer h
+  - Readable h
+  - Writable h
+  - Transform h
+  - Async Pool h
+  - Async Queue h
+  - Async Collector h
+  - Semaphore h
+  - Mutex h
+  - Spin Lock h
+- JavaScript & Node.js specific h
+  - Timers h
+  - `setImmediate` h
+  - `nextTick` h 
+  - AbortController h
+  - AbortSignal h
+  - Promise unhandled rejection h
+  - Promise double resolve h
+  - Atomics h
+  - High resolution clock h
+  - Callback hell h
+  - Promise hell h
+  - ref() and unref() h
+  - Error handling in async code h
+  - Better stack traces with return await h
+  - JSON streaming serialization h
+  - AsyncLocalStorage h
+  - AsyncResource h
+- Techniques h
+  - Async.js library h
+  - RxJS library h
+  - Promise.all h
+  - Promise.allSettled h
+  - Promise.race h
+  - Promise.any h
+  - Web Locks API h
+  - IPC h
+  - Channel API h
+  - Revealing constructor h
