@@ -1,6 +1,6 @@
 ## Databases
 
-- Theory and concepts
+- Theory and concepts k
   - Data types
   - Performance tuning
   - Migrations
@@ -21,7 +21,7 @@
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
-- Relational
+- Relational k
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
@@ -35,7 +35,7 @@
   - Materialized views
   - Replications
   - Virtualization
-- SQL
+- SQL k
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -69,7 +69,7 @@
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
-- Engines
+- Engines h
   - PostgreSQL
   - Oracle
   - MySQL
@@ -84,7 +84,7 @@
   - SQLite
   - DynamoDB
   - Firebase
-- Data engineering
+- Data engineering h
   - Data warehousing
   - Business intelligence
   - Big data
