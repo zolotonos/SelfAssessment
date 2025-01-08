@@ -1,6 +1,6 @@
 ## Node.js and backend
 
-- Internals and concepts
+- Internals and concepts h
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
@@ -10,7 +10,7 @@
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
-- Modularity, layers and dependencies
+- Modularity, layers and dependencies h
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
@@ -25,14 +25,14 @@
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
-- Environment
+- Environment h
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
-- Internal API
+- Internal API h
   - Streams API
   - Web Streams API
   - Crypto API
@@ -59,7 +59,7 @@
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
-- Network
+- Network h
   - Endpoint throttling
   - ALPN
   - SNI callback
@@ -88,7 +88,7 @@
   - noDelay
   - keep-alive
   - IP sticky sessions
-- Technique and tools
+- Technique and tools h
   - Native test runner
   - Logging
   - Application configuring
@@ -101,7 +101,7 @@
   - Buffer
   - Console
   - Inspector
-- Data access
+- Data access h
   - Data access layer
   - Repository
   - Active record
@@ -109,7 +109,7 @@
   - Object-Relational Mapping
   - CRUD
   - DTO
-- Error handling and debugging
+- Error handling and debugging h
   - `Error`
   - `error.cause`
   - `error.code`
@@ -124,7 +124,7 @@
   - Memory leaks
   - Resource leaks
   - Data race
-- Integrations and bindings
+- Integrations and bindings h
   - Native addons
   - `C` and `C++` addons
   - `Rust` addons
