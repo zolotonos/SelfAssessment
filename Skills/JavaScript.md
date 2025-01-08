@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Language
+- Language h
   - `Object`
   - `Function`
   - `Boolean`
@@ -58,7 +58,7 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements
+- Statements h
   - `if`
   - `while`
   - `do..while`
@@ -77,8 +77,8 @@
   - `class`
   - `extends`
   - `with`
-  - `new`
-- Functions
+  - `new` 
+- Functions h
   - Arrow function
   - Async function
   - Function declaration
@@ -89,7 +89,7 @@
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
-- Data structures
+- Data structures h
   - `Array`
   - `Map`
   - `Set`
@@ -98,8 +98,8 @@
   - Typed arrays
   - Mixins
   - `Object.assign`
-- Standard classes and namespaces
-  - `Proxy`
+- Standard classes and namespaces h
+  - `Proxy` 
   - `RegExp`
   - `Date`
   - `Math`
@@ -113,7 +113,7 @@
   - `Promise`
   - `console`
   - Timers
-- Infrastructure
+- Infrastructure h
   - V8
   - Node.js
   - npm
