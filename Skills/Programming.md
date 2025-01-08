@@ -1,6 +1,6 @@
 ## Programming fundamental concepts
 
-- Concepts
+- Concepts k
   - Model
   - Modeling
   - Subject domain
@@ -31,7 +31,7 @@
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
-- Syntax and concepts
+- Syntax and concepts k
   - Value
   - Identifier
   - Variable
@@ -65,7 +65,7 @@
   - Trailing commas
   - Return early
   - Fail-fast
-- Types
+- Types k
   - Primitive types
   - Reference types
   - Type systems
@@ -80,7 +80,7 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions k
   - Signature
   - Argument
   - Parameter
@@ -104,7 +104,7 @@
   - Monoid
   - Generator
   - Coroutine
-- Data structures
+- Data structures k
   - Array
   - Structure
   - Record
@@ -131,7 +131,7 @@
   - JSON
   - JSON5
   - YAML
-- Networking
+- Networking k
   - DNS
   - CDN
   - CORS
@@ -141,7 +141,7 @@
   - URL
   - URN
   - URI
-- Process and tools
+- Process and tools k
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
@@ -170,7 +170,7 @@
   - Kubernetes
   - GCC
   - LLVM
-- Antipatterns
+- Antipatterns k
   - Magic numbers
   - Hard code
   - Soft code
@@ -201,13 +201,13 @@
   - Feature envy
   - Monkey patch
   - Yo-yo problem
-- Runtimes and virtual machines
+- Runtimes and virtual machines k
   - Bytecode
   - V8
   - VJM
   - CLR
   - Mono
-- Operating systems
+- Operating systems k
   - Interrupts
   - Drivers
   - Kernel
@@ -221,7 +221,7 @@
   - Windows
   - Real-time OS
   - Embedded OS
-- Standards
+- Standards k
   - ASCII
   - Escape sequence
   - RFC
