@@ -1,34 +1,34 @@
 ## Asynchronous programming
 
-- Theory k
-  - Event loop k
-  - `try..catch` k
-  - Non-blocking k
-  - Async I/O k
-  - Thread pool k
-  - Pattern Reactor k
-  - CAS operations k
-  - epoll k
-  - kqueue k
+- Theory 
+  - Event loop h
+  - `try..catch` h
+  - Non-blocking h
+  - Async I/O h
+  - Thread pool h
+  - Pattern Reactor h
+  - CAS operations h
+  - epoll h
+  - kqueue h
   - Completion ports h
-  - Event ports k
+  - Event ports h
   - libuv h
   - Race conditions h
   - Dead locks h
   - Live locks h
-  - Concurrent programming k
-  - Parallel programming k
-  - Actor Model k
-  - Thread k
-  - Process k
-- Async contracts k
-  - Callbacks k
-  - Callback-last-error-first k
-  - Thenable k
-  - Promise k
-  - Async/await k
-  - Future k
-  - Deferred k
+  - Concurrent programming h
+  - Parallel programming h
+  - Actor Model h
+  - Thread h
+  - Process h
+- Async contracts 
+  - Callbacks h
+  - Callback-last-error-first h
+  - Thenable h
+  - Promise h
+  - Async/await h
+  - Future h
+  - Deferred h
   - Sync generator h 
   - Async Generator h
   - Async Iterator h
@@ -40,13 +40,13 @@
   - Chain of responsibility h
   - Middleware h
   - Locks h
-- Async adapters and utils h
+- Async adapters and utils 
   - callbackify h
   - promisify h
   - asyncify h
   - Callbacks compose h
   - Async compose h
-- Async abstractions interfaces h
+- Async abstractions interfaces 
   - EventEmitter h
   - Observable/Observer h
   - Readable h
@@ -58,7 +58,7 @@
   - Semaphore h
   - Mutex h
   - Spin Lock h
-- JavaScript & Node.js specific h
+- JavaScript & Node.js specific 
   - Timers h
   - `setImmediate` h
   - `nextTick` h 
@@ -76,7 +76,7 @@
   - JSON streaming serialization h
   - AsyncLocalStorage h
   - AsyncResource h
-- Techniques h
+- Techniques 
   - Async.js library h
   - RxJS library h
   - Promise.all h
