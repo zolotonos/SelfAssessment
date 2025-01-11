@@ -1,17 +1,17 @@
 ## JavaScript
 
-- Language h
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+- Language
+  - `Object` k
+  - `Function` k 
+  - `Boolean` k
+  - `Number` 
   - `BigInt`
-  - `String`
+  - `String` k
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null`
+  - `null` h
   - `this`
   - `instanceof`
   - `...spread`
@@ -37,7 +37,7 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void` h
   - `yield`
   - `await`
   - Template literal
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` k 
+  - `Number.parseFloat` k
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -58,28 +58,28 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements h
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+- Statements
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` h
   - `for await`
   - `throw`
-  - `break`
+  - `break` k
   - `continue`
-  - `import`
+  - `import` 
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch` h
+  - `switch` h
+  - `class` h
   - `extends`
   - `with`
-  - `new` 
-- Functions h
-  - Arrow function
+  - `new`
+- Functions
+  - Arrow function 
   - Async function
   - Function declaration
   - Function expression
@@ -88,32 +88,32 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
-- Data structures h
-  - `Array`
-  - `Map`
+  - `return` h
+- Data structures
+  - `Array` k
+  - `Map` 
   - `Set`
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
-- Standard classes and namespaces h
-  - `Proxy` 
+- Standard classes and namespaces
+  - `Proxy`
   - `RegExp`
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
   - `console`
   - Timers
-- Infrastructure h
+- Infrastructure
   - V8
   - Node.js
   - npm
