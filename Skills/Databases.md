@@ -1,18 +1,18 @@
 ## Databases
 
-- Theory and concepts k
-  - Data types
+- Theory and concepts
+  - Data types h
   - Performance tuning
-  - Migrations
+  - Migrations 
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery 
   - Database scalability
-  - Relational databases
+  - Relational databases h
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
+  - Graph databases h 
+  - Object databases h
+  - Column databases h
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -21,29 +21,29 @@
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
-- Relational k
+- Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys h
+  - Foreign keys h
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
-- SQL k
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+- SQL
+  - `SELECT` h
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` h
+  - `GROUP BY` h
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -53,14 +53,14 @@
   - `UNION`
   - `DISTINCT`
   - `WHERE`
-  - `LIKE`
+  - `LIKE` h
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE` h
+  - `ALTER TABLE` h
+  - `DROP TABLE` h
+  - `PRIMARY KEY` h
+  - `FOREIGN KEY` h
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -69,12 +69,12 @@
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
-- Engines h
+- Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL 
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server h
   - Redis
   - Rabbit
   - MongoDB
@@ -84,7 +84,7 @@
   - SQLite
   - DynamoDB
   - Firebase
-- Data engineering h
+- Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
