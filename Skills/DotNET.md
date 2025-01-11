@@ -1,6 +1,6 @@
 ## .NET
 
-- Core Concepts and Internals h
+- Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
   - Asynchronous and synchronous programming
@@ -9,7 +9,7 @@
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
-- Modularity and Dependencies h
+- Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
   - Dependency management in .NET
@@ -18,7 +18,7 @@
   - IoC containers in .NET
   - Middleware and pipeline configuration
   - Modular applications
-- Environment and Tools h
+- Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
   - Windows Services and Linux Daemons
@@ -28,7 +28,7 @@
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
-- APIs and Framework Features h
+- APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
@@ -36,7 +36,7 @@
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
-- Network and Protocols h
+- Network and Protocols
   - HTTP/HTTPS support
   - WebSockets for real-time communication
   - TCP/UDP networking
@@ -45,39 +45,39 @@
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
-- Testing and Debugging h
+- Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
   - Debugging tools and strategies
   - Performance profiling and analysis
-- Data Access and ORM h
+- Data Access and ORM
   - Entity Framework Core
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
   - CRUD operations
-- Error Handling and Debugging h
-  - Exception handling in .NET 
+- Error Handling and Debugging
+  - Exception handling in .NET
   - Custom error classes
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
-- Integration and Extensibility h
+- Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
   - COM interop
   - .NET for `WebAssembly`
   - Custom middleware development
-- Cloud and Microservices h
+- Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
   - Microservices architecture
   - Containerization with Docker
   - Kubernetes for orchestration
   - Serverless computing
-- C# Development h
+- C# Development
   - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
@@ -85,7 +85,7 @@
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
-- `F#` Development h
+- `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
   - Pattern matching and discriminated unions
@@ -95,14 +95,14 @@
   - Using .NET libraries in `F#`
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
-- VB.NET Development h
+- VB.NET Development
   - VB.NET syntax and language fundamentals
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
-- C++/CLI Development Development h
+- C++/CLI Development Development
   - C++ syntax and language fundamentals
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
@@ -116,12 +116,12 @@
   - Working with Windows API
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
-- Mobile development h
+- Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
-- Game development h
+- Game development
   - Unity
-- Web development h
+- Web development
   - ASP.NET Core
   - Blazor
   - Razor Syntax
