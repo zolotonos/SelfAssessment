@@ -1,7 +1,7 @@
 ## Node.js and backend
 
-- Internals and concepts h
-  - Strong and weak sides of node.js
+- Internals and concepts
+  - Strong and weak sides of node.js 
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -10,7 +10,7 @@
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
-- Modularity, layers and dependencies h
+- Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - Module `node:module`
@@ -25,14 +25,14 @@
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
-- Environment h
+- Environment
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
-- Internal API h
+- Internal API
   - Streams API
   - Web Streams API
   - Crypto API
@@ -59,7 +59,7 @@
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
-- Network h
+- Network
   - Endpoint throttling
   - ALPN
   - SNI callback
@@ -88,20 +88,20 @@
   - noDelay
   - keep-alive
   - IP sticky sessions
-- Technique and tools h
+- Technique and tools
   - Native test runner
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD k
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
-- Data access h
+  - Console 
+  - Inspector 
+- Data access
   - Data access layer
   - Repository
   - Active record
@@ -109,7 +109,7 @@
   - Object-Relational Mapping
   - CRUD
   - DTO
-- Error handling and debugging h
+- Error handling and debugging
   - `Error`
   - `error.cause`
   - `error.code`
@@ -124,16 +124,16 @@
   - Memory leaks
   - Resource leaks
   - Data race
-- Integrations and bindings h
+- Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - `C` and `C++` addons 
+  - `Rust` addons 
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
+  - NAPI `C` and `C++` 
+  - NAPI `Rust`  
+  - NAPI `Zig` 
   - Webassembly `WAT`
   - Webassembly `C` and `C++`
   - Webassembly `Rust`
